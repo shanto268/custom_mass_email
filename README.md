@@ -39,12 +39,21 @@ Now that all the dependencies are installed. Replace the dummy fields in the `se
 ## TO-DO:
 
 -[  ] Add arguments and parsers
+
 -[  ] Inputs
+
     -[  ] input csv
+
     -[  ] email content structure
+
         -[  ] body 
+
         -[  ] salutation
+
 -[  ] Dynamic reading of csv headers
+
 -[  ] Argument triggered email actions
+
     -[  ] Normal Email
+
     -[  ] Attachments
